@@ -1,0 +1,1 @@
+Description: We can add a new table for playlists to prepare for the v2 plan, we can update the relationships and add the user tables to reflect the changes, and we can do some general testing once the schema is updated. we can also update the data and API of the application to account for the new schema and app so the update will show for the users who use our application.
